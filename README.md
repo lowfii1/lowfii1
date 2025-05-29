@@ -47,40 +47,25 @@ A continuous learner passionate about technology and clean, user-centered design
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soraia&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soraia&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lowfii1&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lowfii1&layout=compact&theme=radical"/>
 </div>
 
 ---
 
 ### 🐍 Snake Activity
 
-![snake gif](https://github.com/soraia/soraia/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lowfii1/lowfii1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ### 📬 Contato | Contact
 
 - ✉️ [soraialipe@gmail.com](mailto:soraialipe@gmail.com)  
+- 📸 [@lowfi1_](https://instagram.com/lowfi1_)
 
 ---
 
 > “A tecnologia move o mundo, mas o design conecta as pessoas.”  
 > — *Soraia*
 
-
-
-<!--
-**lowfii1/lowfii1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
