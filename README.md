@@ -67,7 +67,7 @@ A continuous learner passionate about technology and clean, user-centered design
 
 - ✉️ [soraialipe@gmail.com](mailto:soraialipe@gmail.com)  
 - 📸 [Instagram @lowfi1_](https://instagram.com/lowfi1_)  
-- 💼 [LinkedIn (se quiser, me passa o link para eu colocar)](https://linkedin.com/in/seu-perfil)  
+- 💼 [Soraia Souza](https://www.linkedin.com/in/soraia-souza12/)  
 
 ---
 
