@@ -12,7 +12,7 @@
 🇧🇷 **PT-BR**  
 Sou Técnica em Informática com foco em desenvolvimento front-end.  
 Tenho experiência com HTML, CSS e JavaScript, criando interfaces modernas e responsivas.  
-Sou uma eterna aprendiz de tecnologia, sempre buscando evoluir e explorar novas soluções visuais.
+Sou uma eterna aprendiz de tecnologia, sempre buscando evoluir e explorar novas soluções visuais.  
 
 🇺🇸 **EN**  
 I'm a Computer Technician focused on front-end development.  
@@ -21,26 +21,36 @@ A continuous learner passionate about technology and clean, user-centered design
 
 ---
 
-### 🛠️ Tecnologias | Technologies
+### 🚀 Objetivos Profissionais | Career Goals
+
+- Aprimorar minhas habilidades em frameworks JavaScript modernos, como React ou Vue.js  
+- Contribuir em projetos open source para expandir minha experiência prática  
+- Trabalhar em equipes multidisciplinares e dinâmicas para criar soluções inovadoras  
+- Continuar estudando para crescer na área de desenvolvimento web
+
+---
+
+### 🛠️ Tecnologias e Habilidades | Technologies & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
 ---
 
 ### 📌 Projetos em Destaque | Featured Projects
 
-| Projeto | Descrição | Tecnologias |
-|--------|------------|-------------|
-| **Portfólio Pessoal** | Site para apresentar meus trabalhos e contato | HTML, CSS, JS |
-| **Landing Page Criativa** | Página responsiva com foco visual | HTML, CSS |
-| **+ em breve...** | Novos projetos estão a caminho | 🚧 |
+| Projeto | Descrição | Link |
+|--------|------------|-------|
+| **Portfólio Pessoal** | Site para apresentar meus trabalhos e contato | [Acessar](https://github.com/lowfii1/portfolio) |
+| **Landing Page Criativa** | Página responsiva com foco visual | [Acessar](https://github.com/lowfii1/landing-page) |
+| **Projeto Open Source** | Contribuições em projetos colaborativos | [Acessar](https://github.com/lowfii1) |
 
 ---
 
@@ -56,7 +66,8 @@ A continuous learner passionate about technology and clean, user-centered design
 ### 📬 Contato | Contact
 
 - ✉️ [soraialipe@gmail.com](mailto:soraialipe@gmail.com)  
-- 📸 [@lowfi1_](https://instagram.com/lowfi1_)
+- 📸 [Instagram @lowfi1_](https://instagram.com/lowfi1_)  
+- 💼 [LinkedIn (se quiser, me passa o link para eu colocar)](https://linkedin.com/in/seu-perfil)  
 
 ---
 
