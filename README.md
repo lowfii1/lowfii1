@@ -53,12 +53,6 @@ A continuous learner passionate about technology and clean, user-centered design
 
 ---
 
-### 🐍 Snake Activity
-
-![snake gif](https://github.com/lowfii1/lowfii1/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ### 📬 Contato | Contact
 
 - ✉️ [soraialipe@gmail.com](mailto:soraialipe@gmail.com)  
