@@ -44,16 +44,6 @@ A continuous learner passionate about technology and clean, user-centered design
 
 ---
 
-### 📌 Projetos em Destaque | Featured Projects
-
-| Projeto | Descrição | Link |
-|--------|------------|-------|
-| **Portfólio Pessoal** | Site para apresentar meus trabalhos e contato | [Acessar](https://github.com/lowfii1/portfolio) |
-| **Landing Page Criativa** | Página responsiva com foco visual | [Acessar](https://github.com/lowfii1/landing-page) |
-| **Projeto Open Source** | Contribuições em projetos colaborativos | [Acessar](https://github.com/lowfii1) |
-
----
-
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
