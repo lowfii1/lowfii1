@@ -1,4 +1,4 @@
-Você disse:
+
 <h1 align="center">👩‍💻 Soraia | Front-end Developer</h1>
 
 <p align="center">
