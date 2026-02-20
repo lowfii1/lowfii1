@@ -61,6 +61,3 @@ A continuous learner passionate about technology and clean, user-centered design
 - 💼 [Soraia Souza](https://www.linkedin.com/in/soraia-souza12/)  
 
 ---
-
-> “A tecnologia move o mundo, mas o design conecta as pessoas.”  
-> — *Soraia*
